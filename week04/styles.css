@@ -1,19 +1,24 @@
 @charset "utf-8";
 /* CSS Document */
 
- body{
+body{
      font-family: "Georgia", Times, serif
      color black;
      line-height: 1.4em
      margin: 30px
-     background-image url("images/page-bg.gif");
+     background-image: url("images/page-bg.gif");
      background-repeat: no-repeat;
      background-attachment: fixed
      background-color #F7F3DE;
-     <header>
-     <h1>This is heading 1</h1>
-     font-size: 350%
-     color: #7C1A00;
-     padding: 40px
-
     }
+
+header h1{
+    font-size: 350px;
+    color: #7C1A00;
+    padding: 40px;
+    padding-left: 120px;
+    background-image: url(images/header-image-1.gif);
+    background-position: top left;
+    background-repeat: no-repeat;
+    
+}
