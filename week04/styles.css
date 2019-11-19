@@ -5,7 +5,15 @@
      font-family: "Georgia", Times, serif
      color black;
      line-height: 1.4em
-     margin 30px
+     margin: 30px
      background-image url("images/page-bg.gif");
-     
+     background-repeat: no-repeat;
+     background-attachment: fixed
+     background-color #F7F3DE;
+     <header>
+     <h1>This is heading 1</h1>
+     font-size: 350%
+     color: #7C1A00;
+     padding: 40px
+
     }
