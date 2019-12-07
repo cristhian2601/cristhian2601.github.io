@@ -39,6 +39,7 @@ container {
     background: purple;
     width: 230px;
     height: 230px;
+    position: absolute;
     bottom: 10px;
     right: 10px;
 }
