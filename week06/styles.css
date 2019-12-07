@@ -20,6 +20,12 @@ container {
     float:left;
 }
 
+.blue {
+    background: blue;
+    width: 250px;
+    height: 250px;
+    float: left;
+}
 
 .purple {
     background:purple;
