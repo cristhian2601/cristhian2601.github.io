@@ -8,28 +8,32 @@ container {
 
 .red {
     background:red;
-    width:250px;
-    height:250px;
+    width:2300px;
+    height:230px;
     float:left;
+    margin: 10px;
 }
 
 .green {
     background:green;
-    width:250px;
-    height:250px;
+    width:2300px;
+    height:230px;
     float:left;
+    margin: 10px;
 }
 
 .blue {
     background: blue;
-    width: 250px;
-    height: 250px;
-    float: left;
+    width:2300px;
+    height:230px;
+    float:left;
+    margin: 10px;
 }
 
 .purple {
     background: purple;
-    width: 250px;
-    height: 250px;
-    float: left;
+    width:2300px;
+    height:230px;
+    float:left;
+    margin: 10px;
 }
