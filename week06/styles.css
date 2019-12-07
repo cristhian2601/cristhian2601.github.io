@@ -28,7 +28,8 @@ container {
 }
 
 .purple {
-    background:purple;
-    width:250px;
-    height:250px;
+    background: purple;
+    width: 250px;
+    height: 250px;
+    float: left;
 }
