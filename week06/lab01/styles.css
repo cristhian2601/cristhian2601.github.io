@@ -8,6 +8,7 @@ container {
 }
 
 .red {
+    text-align: center;
     background:red;
     width:370px;
     height:370px;
@@ -17,6 +18,7 @@ container {
 }
 
 .green {
+    text-align: center;
     background:green;
     width:370px;
     height:370px;
@@ -26,6 +28,7 @@ container {
 }
 
 .blue {
+    text-align: center;
     background: blue;
     width:370px;
     height:370px;
@@ -35,6 +38,7 @@ container {
 }
 
 .purple {
+    text-align: center;
     background: purple;
     width: 370px;
     height: 370px;
@@ -44,6 +48,7 @@ container {
 }
 
 .footer {
+    text-align: center;
     background: gray;
     width: 790px;
     height: 20px;
