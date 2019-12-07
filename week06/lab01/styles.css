@@ -19,6 +19,7 @@ container {
 
 .green {
     text-align: center;
+    font-weight: bold;
     background:green;
     width:370px;
     height:370px;
@@ -29,6 +30,7 @@ container {
 
 .blue {
     text-align: center;
+    font-weight: bold;
     background: blue;
     width:370px;
     height:370px;
@@ -39,6 +41,7 @@ container {
 
 .purple {
     text-align: center;
+    font-weight: bold;
     background: purple;
     width: 370px;
     height: 370px;
@@ -49,6 +52,7 @@ container {
 
 .footer {
     text-align: center;
+    font-weight: bold;
     background: gray;
     width: 790px;
     height: 20px;
