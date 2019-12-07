@@ -14,8 +14,7 @@ container {
     width:370px;
     height:370px;
     position: absolute;
-    top: 10px;
-    left: 10px;
+    margin: 10px;
 }
 
 .green {
@@ -25,8 +24,7 @@ container {
     width:370px;
     height:370px;
     position: absolute;
-    top: 10px;
-    right: 10px;
+    margin: 10px;
 }
 
 .blue {
@@ -36,19 +34,17 @@ container {
     width:370px;
     height:370px;
     position: absolute;
-    bottom: 40px;
-    left: 10px;
+    margin: 10px;
 }
 
 .purple {
     text-align: center;
     font-weight: bold;
     background: purple;
-    width: 370px;
+    width: 30px;
     height: 370px;
     position: absolute;
-    bottom: 40px;
-    right: 10px;
+    margin: 10px;
 }
 
 .footer {
