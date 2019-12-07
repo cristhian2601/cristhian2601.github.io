@@ -9,6 +9,7 @@ container {
 
 .red {
     text-align: center;
+    font-weight: bold;
     background:red;
     width:370px;
     height:370px;
