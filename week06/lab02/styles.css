@@ -36,7 +36,6 @@ container {
     float: left;
     margin: 1.858736059%;
     width: 29.615861214%;
-  
     height:370px;
     border-radius: 6px;
     right: 10px;
@@ -47,7 +46,10 @@ container {
     text-align: center;
     font-weight: bold;
     background: purple;
-    width: 200px;
+    float: left;
+    margin: 1.858736059%;
+    width: 29.615861214%;
+
     height: 370px;
     border-radius: 6px;
     top: 10px;
