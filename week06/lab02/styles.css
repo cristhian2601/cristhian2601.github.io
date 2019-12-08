@@ -43,6 +43,7 @@ container {
     background: purple;
     width: 200px;
     height: 370px;
+    top: 10px;
     left: 10px;
     margin: 10px;
 }
