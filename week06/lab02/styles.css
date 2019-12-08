@@ -52,6 +52,16 @@ container {
     margin: 10px;
 }
 
+.box-set {
+    background: #eaeaed;
+  }
+  .box {
+    background: #2db34a;
+    float: left;
+    margin: 1.858736059%;
+    width: 29.615861214%;
+  }
+
 .footer {
     text-align: center;
     font-weight: bold;
