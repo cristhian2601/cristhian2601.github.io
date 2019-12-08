@@ -11,6 +11,7 @@ container {
     text-align: center;
     font-weight: bold;
     background:red;
+    border-radius: 6px;
     width:200px;
     height:370px;
     position: absolute;
@@ -23,6 +24,7 @@ container {
     background:green;
     width:200px;
     height:370px;
+    border-radius: 6px;
     position: absolute;
     margin: 10px;
 }
@@ -44,6 +46,7 @@ container {
     background: purple;
     width: 200px;
     height: 370px;
+    border-radius: 6px;
     top: 10px;
     left: 10px;
     margin: 10px;
