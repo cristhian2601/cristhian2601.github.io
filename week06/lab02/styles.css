@@ -33,7 +33,7 @@ container {
     background: blue;
     width:200px;
     height:370px;
-    position: absolute;
+    right: 10px;
     margin: 10px;
 }
 
@@ -43,7 +43,7 @@ container {
     background: purple;
     width: 200px;
     height: 370px;
-    position: absolute;
+    left: 10px;
     margin: 10px;
 }
 
