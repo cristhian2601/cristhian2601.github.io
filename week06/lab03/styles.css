@@ -57,11 +57,10 @@ container {
     background: gray;
     width: 100px;
     height: 100px;
-    position: absolute;
+    position: relative;
     left: 0;
     top: 50%;
     width: 100%;
-    
 }
 
 .white {
@@ -70,9 +69,8 @@ container {
     background: white;
     width: 250px;
     height: 150px;
-    position: absolute;
+    position: relative;
     left: 0;
     top: 50%;
     width: 100%;
-    z-index: 2;
 }
