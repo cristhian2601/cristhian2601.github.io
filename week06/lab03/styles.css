@@ -63,10 +63,10 @@ container {
     width: 100%;
 }
 
-,white {
+.white {
     text-align: center;
     font-weight: bold;
-    background: gray;
+    background: white;
     width: 250px;
     height: 150px;
     position: absolute;
