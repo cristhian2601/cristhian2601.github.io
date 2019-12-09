@@ -55,8 +55,20 @@ container {
     text-align: center;
     font-weight: bold;
     background: gray;
-    width: 790px;
-    height: 20px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+}
+
+,white {
+    text-align: center;
+    font-weight: bold;
+    background: gray;
+    width: 250px;
+    height: 150px;
     position: absolute;
     left: 0;
     top: 50%;
