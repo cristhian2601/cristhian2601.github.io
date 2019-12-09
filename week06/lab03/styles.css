@@ -57,7 +57,7 @@ container {
     background: gray;
     width: 100px;
     height: 100px;
-    position: relative;
+    position: absolute;
     left: 0;
     top: 50%;
     width: 100%;
@@ -69,7 +69,7 @@ container {
     background: white;
     width: 250px;
     height: 150px;
-    position: relative;
+    position: absolute;
     left: 0;
     top: 50%;
     width: 100%;
