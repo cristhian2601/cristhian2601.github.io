@@ -5,7 +5,6 @@
     position: relative;
     width: 300px;
     height: 100px;
-    background: black;
 }
 
 .red {
@@ -51,7 +50,7 @@
     height:150px;
     position: absolute;
     top: 15px;
-    right: 15px;
+    right: 100px;
 }
 
 .footer {
