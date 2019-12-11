@@ -2,6 +2,7 @@
 /* CSS Document */
 
 .container {
+    position: relative;
     width: 500px;
     height: 150px;
     background: #cccccc;
