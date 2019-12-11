@@ -5,10 +5,9 @@
     position: relative;
     width: 500px;
     height: 500px;
-    background: #cccccc;
+    background: black;
     text-align: center;
-    color: black;
-}
+    }
 
 .red {
     text-align: center;
