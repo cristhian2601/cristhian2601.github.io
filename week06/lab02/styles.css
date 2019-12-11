@@ -64,6 +64,5 @@
     height: 20px;
     position: absolute;
     top: 300px;
-    right: 15px;
-    left: 10px;
+    margin: 30px;
 }
