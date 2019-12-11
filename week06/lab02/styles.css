@@ -6,15 +6,12 @@
     width: 300px;
     height: 100px;
     border-style: solid;
-    border: black;
-    border-width: 5px 5px 5px 5px;
 }
 
 .red {
     text-align: center;
     font-weight: bold;
     background:red;
-    border-radius: 6px;
     float: left;
     width: 150px;
     height:150px;
