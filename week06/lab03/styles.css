@@ -2,9 +2,9 @@
 /* CSS Document */
 
 .container {
-    width:500px;
-    height:500px;
-    background: gray;
+    width: 500px;
+    height: 150px;
+    background: #cccccc;
     }
 
 .red {
