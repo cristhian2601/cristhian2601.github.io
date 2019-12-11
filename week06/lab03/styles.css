@@ -2,10 +2,12 @@
 /* CSS Document */
 
 .container {
-
-    width:500px;
-    height:500px;
-    background: #d3d3d3;
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background: #cccccc;
+    text-align: center;
+    color: white;
 }
 
 .red {
