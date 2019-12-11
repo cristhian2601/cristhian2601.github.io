@@ -53,16 +53,14 @@
     right: 10px;
 }
 
-.gray {
-    text-align: center;
-    font-weight: bold;
+.footer {
     background: gray;
     width: 100px;
     height: 100px;
     position: absolute;
-    left: 270px;
     bottom: 300px;
+    left: 270px;
     border-style: solid;
     border-width: 75px 150px 75px 150px;
-    border-color: black;
+    border-color: white;
 }
