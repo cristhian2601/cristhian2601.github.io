@@ -4,7 +4,7 @@
 container {
     width:500px;
     height:500px;
-
+    background-color: gray;
 }
 
 .red {
@@ -62,6 +62,5 @@ container {
     bottom: 300px;
     border-style: solid;
     border-width: 75px 150px ;
-    text-align: center;
-
+    border-color: white;
 }
