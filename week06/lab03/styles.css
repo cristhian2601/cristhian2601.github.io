@@ -58,8 +58,8 @@ container {
     width: 50px;
     height: 100px;
     position: absolute;
-    left: 150;
-    top: 150%;
+    left: 150px;
+    top: 150px;
 }
 
 .white {
