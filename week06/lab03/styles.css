@@ -4,6 +4,7 @@
 container {
     width:500px;
     height:500px;
+
 }
 
 .red {
@@ -54,21 +55,11 @@ container {
     text-align: center;
     font-weight: bold;
     background: gray;
-    width: 50px;
+    width: 100px;
     height: 100px;
     position: absolute;
     left: 350px;
     bottom: 375px;
-}
-
-.white {
-    text-align: center;
-    font-weight: bold;
-    background: white;
-    width: 250px;
-    height: 150px;
-    position: absolute;
-    left: 250;
-    top: 250%;
-    
+    border-style: solid;
+    border-width: 200;
 }
