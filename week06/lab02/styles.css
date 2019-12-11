@@ -3,7 +3,7 @@
 
 container {
     width: 500px;
-    height: 160px;
+    height: 150px;
     background: #cccccc;
 }
 
@@ -28,7 +28,7 @@ container {
     height:100px;
     position: absolute;
     top: 15px;
-    left: 30px;
+    left: 100px;
 }
 
 .blue {
@@ -39,7 +39,7 @@ container {
     height:100px;
     position: absolute;
     top: 15px;
-    left: 254px;
+    left: 200px;
 }
 
 .purple {
