@@ -11,54 +11,53 @@ container {
     text-align: center;
     font-weight: bold;
     background:red;
-    width:370px;
-    height:370px;
+    width:10px;
+    height:10px;
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 0px;
+    right: 0px;
 }
 
 .green {
     text-align: center;
     font-weight: bold;
     background:green;
-    width:370px;
-    height:370px;
+    width:10px;
+    height:10px;
     position: absolute;
-    top: 10px;
-    right: 10px;
+    top: 0px;
+    right: 0px;
 }
 
 .blue {
     text-align: center;
     font-weight: bold;
     background: blue;
-    width:370px;
-    height:370px;
+    width:10px;
+    height:10px;
     position: absolute;
-    bottom: 40px;
-    left: 10px;
+    bottom: 0px;
+    left: 0px;
 }
 
 .purple {
     text-align: center;
     font-weight: bold;
     background: purple;
-    width: 370px;
-    height: 370px;
+    width:10px;
+    height:10px;
     position: absolute;
-    bottom: 40px;
-    right: 10px;
+    bottom: 0px;
+    left: 0px;
 }
 
 .footer {
     text-align: center;
     font-weight: bold;
     background: gray;
-    width: 790px;
-    height: 20px;
+    width: 100px;
+    height: 100px;
     position: absolute;
-    bottom: 10px;
-    right: 10px;
-    left: 10px;
+    bottom: 250px;
+    right: 250px;
 }
