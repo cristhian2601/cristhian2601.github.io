@@ -55,8 +55,8 @@ container {
     text-align: center;
     font-weight: bold;
     background: gray;
-    width: 100px;
-    height: 100px;
+    width:200px;
+    height:200px;
     position: absolute;
     bottom: 350px;
     right: 350px;
