@@ -1,5 +1,9 @@
 @charset "utf-8";
  
+.container {
+    background-color: blue;
+}
+
 a:center {
     text-align: center;
 }
@@ -7,21 +11,16 @@ a:center {
 a:link {
     text-decoration: none;
   }
-
-
 h1 {
     font-family: 'Aguafina Script';font-size: 22px;
 }
-
 p {
     font-family: 'Aldrich';font-size: 22px;
 }
-
 ul {
     list-style-type: none;
     font-family: 'Aldrich';font-size: 22px;
 }
-
 li {
     list-style-type: none;
     font-family: 'Allan';font-size: 15px;
