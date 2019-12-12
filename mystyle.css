@@ -18,9 +18,11 @@ p {
 }
 
 ul {
+    list-style-type: none;
     font-family: 'Aldrich';font-size: 22px;
 }
 
 li {
+    list-style-type: none;
     font-family: 'Allan';font-size: 15px;
 }
