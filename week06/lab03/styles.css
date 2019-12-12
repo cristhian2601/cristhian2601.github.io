@@ -15,8 +15,8 @@ body {
     width:100px;
     height:100px;
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 0px;
+    left: 0px;
 }
 
 .green {
@@ -37,8 +37,8 @@ body {
     width:100px;
     height:100px;
     position: absolute;
-    bottom: 40px;
-    left: 10px;
+    bottom: 0px;
+    left: 0px;
 }
 
 .purple {
@@ -48,8 +48,8 @@ body {
     width: 100px;
     height: 100px;
     position: absolute;
-    bottom: 40px;
-    right: 10px;
+    bottom: 0px;
+    right: 0px;
 }
 
 .footer {
@@ -64,5 +64,5 @@ body {
     left: 270px;
     border-style: solid;
     border-width: 50px 125px;
-    border-color:#EDE6E6;
+    border-color: white:
 }
