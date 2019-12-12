@@ -2,28 +2,32 @@
  
 body {
     background-image: url("galaxy.jpg");
-
     color: #ffffff;
 }
 
-a:center {
+    a:center {
     text-align: center;
-}
+    }
 
-a:link {
+    a:link {
     text-decoration: none;
-  }
-h1 {
+    color: #ffffff;
+    }
+    h1 {
     font-family: 'Aguafina Script';font-size: 22px;
-}
-p {
+    color: #ffffff;
+    }
+    p {
     font-family: 'Aldrich';font-size: 22px;
-}
-ul {
+    color: #ffffff;
+    }
+    ul {
     list-style-type: none;
     font-family: 'Aldrich';font-size: 22px;
-}
-li {
+    color: #ffffff;
+    }
+    li {
     list-style-type: none;
     font-family: 'Allan';font-size: 15px;
-}
+    color: #ffffff;
+    }
